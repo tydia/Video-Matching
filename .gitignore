@@ -1,0 +1,15 @@
+*.rgb
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+*/__pycache__/
+*/.pytest_cache/
+database_videos/
+database_videos_jpeg/
+query/
+CS576FinalProjData/
+query_videos/
+*.png
+*.h5
+jupyter_notebooks/videoData/
+*.mov

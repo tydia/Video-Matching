@@ -1,0 +1,4 @@
+{
+  "jpgDatabaseDir" : "full_path_of_the_dir_that_contains_database_videos",
+  "resourceBaseDir": "full_path_of_the_dir_that_contains_query_videos"
+}

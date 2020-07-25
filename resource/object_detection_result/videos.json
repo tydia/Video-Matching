@@ -1,0 +1,28 @@
+{
+    "movie": [
+        "person",
+        "refrigerator"
+    ],
+    "musicvideo": [
+        "person",
+        "suitcase"
+    ],
+    "starcraft": [
+        "person"
+    ],
+    "interview": [
+        "chair",
+        "couch",
+        "person",
+        "potted plant"
+    ],
+    "flowers": [
+        "car"
+    ],
+    "sports": [
+        "person"
+    ],
+    "traffic": [
+        "car"
+    ]
+}
